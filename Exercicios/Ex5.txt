@@ -1,0 +1,18 @@
+main()
+{
+printf("Linguagem C");
+system("pause");
+}
+
+
+falta a inclusão da biblioteca que permite o uso de printf.
+falta declarar o tipo da variavel main
+o pause de system("PAUSE"); tem que ser maiusculo
+
+versao correta para o funcionamento direto:
+#include <stdio.h>
+int main()
+{
+printf("Linguagem C");
+system("PAUSE");
+}

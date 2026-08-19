@@ -1,0 +1,6 @@
+main()             //faltou o int
+{
+int a=1; b=2; c=3:              // uso de dois pontos ao inves de ponto e virgula //
+printf("0s números são: %d%d%d\n, a, b, c, d);
+system("pause");
+}
