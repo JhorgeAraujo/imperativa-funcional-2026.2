@@ -1,0 +1,11 @@
+1°caso - primeiro pula uma linha e depois da uma tabulaçao então escrever a mensagem
+
+2°caso - escreve o print e depois pula uma linha
+
+3°caso - pula 2 linhas, escreve "A solução não existe" e depis pula mais uma linha para escrever o resto da mensagem
+
+4°caso - vai printar "Duas linhas de" e depois pular uma linha pra printar "ou uma?" entre cada palavra vai ter um
+espaçamento gerado pelo \t, tanto na primeira linha quanto na segunda
+
+5°caso - cada %s chama uma palavra que vem apos a virgula fora das aspas duplas, eles serão substituidos na ordem
+em que aparecem. Como tem um \n apos cada %s, ele vai printar uma em baixo da outra.
