@@ -1,4 +1,2 @@
 10 - B (a liguagem c é altamente sensivel a maiusculo e minusculo, por isso a palavra "Peso" é diferente da plavra "peso" pois "P" e "p"
 são tratados como coisas diferentes)
-
-11 - 

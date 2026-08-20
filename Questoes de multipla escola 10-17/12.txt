@@ -1,0 +1,8 @@
+int a; - correto - 
+float b; - correto - 
+double float c; - incorreto - nao é possivel combinar double e float pois eles representao 2 coisas distintas
+unsigned char d; - correto - 
+unsigned e; - correto - 
+long float f - incorreto - long nao para o tipo float em c, ao inves disso se utiliza double
+long g - corrto
+    long double h - correto
